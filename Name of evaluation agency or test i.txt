@@ -1,0 +1,13 @@
+Name of evaluation agency or test institution with their unique reference#   
+First name on the report/score card
+Last name on the report/score card
+Date of dispatch/transmission or a PDF of the test order receipt showing scores sent to SJSU
+PDF of test score card or evaluation report
+
+NAME OF THE EVALUATION AGENCY: WES (WORLD EDUCATION SERVICR) EVALUATION
+UNIQUE REFERENCE NO FROM(WES): 6174288
+FIRST NAME (SCORE CARD)      : Jason Kishore
+LAST NAME (SCORE CARD)       : M
+DATE OF DISPATCH             : 29-SEP-2023
+ORDER RECEIPT                :* ATTACHED WITH THIS MAIL*
+PDF POF THE TEST SCORE       :* ATTACHED WITH THIS MAIL*
